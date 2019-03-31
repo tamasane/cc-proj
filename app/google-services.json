@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "965998433977",
+    "firebase_url": "https://blogsalt-41cb1.firebaseio.com",
+    "project_id": "blogsalt-41cb1",
+    "storage_bucket": "blogsalt-41cb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965998433977:android:2682cb8b5fc5333c",
+        "android_client_info": {
+          "package_name": "com.example.ekene.blogSALT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965998433977-kks4rsi0vdfgvc4f2og0rp2948gtaa4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ekene.blogSALT",
+            "certificate_hash": "52e9a0da80effcb8247dc1ec2fa274c281cbb126"
+          }
+        },
+        {
+          "client_id": "965998433977-d7hjmn50dusto577f1osqok0ecgmlu2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnUhu56pQOgF4S0FynXw3PG-ssBkPy8cE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965998433977-d7hjmn50dusto577f1osqok0ecgmlu2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
